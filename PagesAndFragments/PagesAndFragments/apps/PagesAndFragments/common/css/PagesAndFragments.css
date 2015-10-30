@@ -1,0 +1,33 @@
+/*
+*  Licensed Materials - Property of IBM
+*  5725-G92 (C) Copyright IBM Corp. 2006, 2012. All Rights Reserved.
+*  US Government Users Restricted Rights - Use, duplication or
+*  disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+*/
+
+#AppBody {
+	height: 460px;
+	margin: 0 auto;
+	width: 320px;
+	background-color: #ccc;
+	overflow: hidden;
+	overflow-y: auto;
+}
+
+#header {
+	text-align: center;
+	background-color: #1D4D90;
+	color: #F9FAFB;
+	font-size: 16px;
+	height: 38px;
+	line-height: 38px;
+	border-bottom: 1px solid #BBBBBB;
+}
+
+#wrapper {
+	padding: 10px;
+}
+
+p{
+	padding: 10px;
+}
